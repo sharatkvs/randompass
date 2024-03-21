@@ -1,2 +1,8 @@
-# randompass
-This tool is a random password generator created where it suggests you a string and secure password
+RANDOM PASSWORD GENERATOR
+-------
+USAGE
+-------
+```
+chmod +x filename.sh
+./filename.sh
+```
